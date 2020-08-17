@@ -1,0 +1,10 @@
+기본적인 기능들은 실습 때 모두 해보기 (처음 해보는 사람들에게는 매우 유용)
+
+view -> toggle line numbers : 코드의 라인을 볼 수 있음 (에러가 났을 때 유용)
+
+h키 : 다양한 shortcut 확인
+
+아래 익스텐션을 통해 주피터 노트북을 목차별로 문서화할 수 있음
+conda install -c conda-forge jupyter_contrib_nbextensions
+
+google colaboratory 통해 서버의 자원을 활용할 수 있음

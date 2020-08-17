@@ -1,0 +1,5 @@
+randomizedsearchcv 확률함수적용 관련
+
+https://analysis-flood.tistory.com/72
+https://scikit-learn.org/stable/modules/grid_search.html
+https://dsbook.tistory.com/109
